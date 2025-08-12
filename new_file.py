@@ -1,0 +1,1 @@
+print("VScod 새 파일")
